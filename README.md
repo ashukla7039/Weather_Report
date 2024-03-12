@@ -1,27 +1,6 @@
 # TypeScript Weather API
 
----
-
-<div>
-<b>Quick menu:</b>
-<a href="https://theultimateapichallenge.com/challenges/weather-typescript-api" target="_blank" rel="noopener"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #BDFFF3;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">Challenge Page</a> |
-<a href="https://openweathermap.org/api" target="_blank" rel="noopener"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #F1DEDE;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">Official API Docs</a> |
  
-</div>
-
----
 
 ## Description
 
